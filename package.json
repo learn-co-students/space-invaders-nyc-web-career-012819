@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/learn-co-curriculum/space-invaders#readme",
   "devDependencies": {
-    "learn-browser": "^0.1.14"
+    "learn-browser": "^0.1.24"
   }
 }
